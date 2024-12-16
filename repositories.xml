@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<repositories version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>cGentoo</name>
+      <description lang="en">headset's gentoo overlay</description>
+        <homepage>https://github.com/devHeadset/cGentoo</homepage>
+        <owner type="person">
+            <name>Emi</name>
+            <email>headset@devheadset.org</email>
+        </owner>
+        <source type="git">git://github.com/devHeadset/cGentoo.git</source>
+   </repo>
+</repositories>
