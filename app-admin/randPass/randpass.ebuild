@@ -13,7 +13,7 @@ SLOT="0"
 KEYWORDS="~amd64"
 IUSE=""
 
-DEPEND="rust-bin"
+DEPEND=""
 RDEPEND=""
 
 
